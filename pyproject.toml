@@ -1,0 +1,17 @@
+[project]
+name = "proxy-checker"
+version = "0.1.0"
+description = "Updated version of https://github.com/iterweb/proxy_checker"
+authors = [
+    {name = "Cbass92"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
